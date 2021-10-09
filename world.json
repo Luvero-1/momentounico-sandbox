@@ -1,0 +1,34 @@
+{
+  "name": "momentounico-sandbox",
+  "title": "Un momento único 1ºed para Sandbox",
+  "description": "<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Los dos samur&aacute;is se miraron a los ojos.</span></em></p>\n<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Un d&iacute;a fueron amigos. Hermanos. Pero ha llegado el momento de recuperar el honor<br />y desatar la venganza.</span></em></p>\n<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Pisada firme. Empu&ntilde;aduras apretadas.<br />Ojos entrecerrados.</span></em></p>\n<p style=\"text-align: center;\"><em><span class=\"fontstyle2\">Un momento &uacute;nico<br /></span><span class=\"fontstyle0\">y todo hab&iacute;a terminado.</span></em></p>",
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/momentounico-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/momentounico-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/momentounico-sandbox/zip/main",
+  "protected": false,
+  "background": "worlds/momentounico-sandbox/Escenas/Portada.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.10.1"
+}
