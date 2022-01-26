@@ -1,7 +1,7 @@
 {
   "name": "momentounico-sandbox",
   "title": "Un momento único 1ºed para Sandbox",
-  "description": "<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Los dos samur&aacute;is se miraron a los ojos.</span></em></p>\n<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Un d&iacute;a fueron amigos. Hermanos. Pero ha llegado el momento de recuperar el honor<br />y desatar la venganza.</span></em></p>\n<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Pisada firme. Empu&ntilde;aduras apretadas.<br />Ojos entrecerrados.</span></em></p>\n<p style=\"text-align: center;\"><em><span class=\"fontstyle2\">Un momento &uacute;nico<br /></span><span class=\"fontstyle0\">y todo hab&iacute;a terminado.</span></em></p>",
+  "description": "<p style=\"text-align:center\"><em><span class=\"fontstyle0\">Los dos samuráis se miraron a los ojos.</span></em></p>\n<p style=\"text-align:center\"><em><span class=\"fontstyle0\">Un día fueron amigos. Hermanos. Pero ha llegado el momento de recuperar el honor<br />y desatar la venganza.</span></em></p>\n<p style=\"text-align:center\"><em><span class=\"fontstyle0\">Pisada firme. Empuñaduras apretadas.<br />Ojos entrecerrados.</span></em></p>\n<p style=\"text-align:center\"><em><span class=\"fontstyle2\">Un momento único<br /></span><span class=\"fontstyle0\">y todo había terminado.</span></em></p>",
   "author": "Luvero",
   "authors": [
     {
@@ -26,9 +26,8 @@
   "download": "https://codeload.github.com/Luvero-1/momentounico-sandbox/zip/main",
   "protected": false,
   "background": "worlds/momentounico-sandbox/Escenas/Portada.jpg",
-  "coreVersion": "0.8.9",
-  "nextSession": null,
+  "coreVersion": "9.242",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.10.1"
+  "systemVersion": "0.12.1"
 }
